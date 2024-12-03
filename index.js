@@ -1,5 +1,7 @@
 const path = require("path");
 const express = require("express");
+const session = require('express-session');
+const passport = require('./configs/passport.js');
 
 const { initModel } = require("./models");
 
@@ -12,6 +14,20 @@ app.use(express.urlencoded({ extended: true }));
 app.set("view engine", "ejs");
 app.set('views', './views');
 app.use(express.static(path.join(__dirname, "public")));
+
+app.use(
+    session({
+      secret: 'sessionOfDHA',
+      resave: false,
+      saveUninitialized: false,
+      cookie: {
+        httpOnly: true,  // Bảo vệ cookie
+      },
+    })
+);
+
+app.use(passport.initialize());
+app.use(passport.session());
 
 const PORT = process.env.PORT || 3000;
 
