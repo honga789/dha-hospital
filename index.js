@@ -5,6 +5,7 @@ const session = require('express-session');
 const passport = require('./configs/passport.js');
 
 const { initModel } = require("./models");
+const route = require("./routes");
 
 const app = express();
 require("dotenv").config();
@@ -32,6 +33,8 @@ app.use(
 
 app.use(passport.initialize());
 app.use(passport.session());
+
+route(app);
 
 const PORT = process.env.PORT || 3000;
 
