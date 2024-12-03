@@ -169,8 +169,11 @@ Dự án này được chia thành 3 phần cho 3 thành viên trong nhóm, mỗ
      - Quản lý thông tin về thuốc, bao gồm thêm, sửa, xóa thuốc.
      - Quản lý các khoa trong bệnh viện và kết nối với bác sĩ (khoa nào có bác sĩ nào).
      - Tích hợp ChatGPT API vào tra cứu khoa.
+    
 
+## Video demo:
+[Nhấn vào đây để xem](https://drive.google.com/file/d/1TLrWKD_aM5HybDm_M1IO9b2Ar3s-5HaY/view?usp=sharing)
 
 ## Giấy Phép
 
-[MIT](https://opensource.org/licenses/MIT).
+[MIT](https://opensource.org/licenses/MIT)
