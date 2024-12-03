@@ -1,5 +1,6 @@
 const path = require("path");
 const express = require("express");
+const expressLayouts = require('express-ejs-layouts');
 const session = require('express-session');
 const passport = require('./configs/passport.js');
 
@@ -14,6 +15,9 @@ app.use(express.urlencoded({ extended: true }));
 app.set("view engine", "ejs");
 app.set('views', './views');
 app.use(express.static(path.join(__dirname, "public")));
+
+app.use(expressLayouts);
+app.set('layout', 'layouts/layout.ejs'); 
 
 app.use(
     session({
