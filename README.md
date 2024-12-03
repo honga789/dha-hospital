@@ -1,5 +1,7 @@
 # DHA Hospital Management System
 
+Đường dẫn đến dự án thực tế: https://dha-hos.onrender.com/ (Lúc đầu khởi động có thể bị chậm!)
+
 DHA Hospital Management System là một ứng dụng web giúp quản lý bệnh viện, bao gồm các chức năng quản lý người dùng, bệnh nhân, bác sĩ, thuốc, và lịch làm việc; cho phép người dùng (bệnh nhân) đặt lịch Online trước khi đến khám, xem lại kết quả khám vô cùng dễ dàng. Hệ thống cung cấp giao diện cho người quản trị để theo dõi và điều hành các hoạt động trong bệnh viện.
 
 ## Các Tính Năng Chính
