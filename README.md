@@ -172,7 +172,7 @@ Dự án này được chia thành 3 phần cho 3 thành viên trong nhóm, mỗ
     
 
 ## Video demo:
-[Nhấn vào đây để xem](https://drive.google.com/file/d/1TLrWKD_aM5HybDm_M1IO9b2Ar3s-5HaY/view?usp=sharing)
+[Nhấn vào đây để xem](https://drive.google.com/file/d/1PMspMIIW4OHS78N6GArH_S_5jSfqfcQ4/view?usp=sharing)
 
 ## Giấy Phép
 
