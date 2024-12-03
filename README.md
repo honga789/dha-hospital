@@ -57,16 +57,27 @@ DHA Hospital Management System là một ứng dụng web giúp quản lý bện
 ## Cấu Trúc Thư Mục
 dha-hospital/
 │
+
 ├── config/            # Cấu hình kết nối cơ sở dữ liệu và các cấu hình khác
+
 ├── controllers/       # Các controller xử lý logic nghiệp vụ
+
 ├── middlewares/       # Cấu hình MiddleWares cho Đăng nhập
+
 ├── models/            # Các mô hình dữ liệu sử dụng Sequelize
+
 ├── public/            # Các tài nguyên tĩnh (CSS, JS, ảnh)
+
 ├── routes/            # Các tệp định nghĩa route (API)
+
 ├── views/             # Các tệp EJS để render giao diện
+
 ├── node_modules/      # Thư mục chứa các package Node.js
+
 ├── app.js             # Tệp khởi tạo ứng dụng
+
 ├── .env               # File cấu hình biến môi trường
+
 └── package.json       # Quản lý các phụ thuộc và scripts của dự án
 
 ## Các Route Chính
