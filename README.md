@@ -184,7 +184,7 @@ Dự án này được chia thành 3 phần cho 3 thành viên trong nhóm, mỗ
 [Nhấn vào đây để xem](https://drive.google.com/file/d/1PMspMIIW4OHS78N6GArH_S_5jSfqfcQ4/view?usp=sharing)
 
 ## Video hướng dẫn Test:
-[Nhấn vào đây để xem]()
+[Nhấn vào đây để xem](https://drive.google.com/file/d/14z3IyZ_MYvPoLtA2t5s-baC1ahpKzonj/view?usp=sharing)
 
 ## Giấy Phép
 
