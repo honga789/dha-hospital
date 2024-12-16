@@ -1,12 +1,16 @@
 # DHA Hospital Management System
 
 Đường dẫn đến dự án thực tế: https://dha-hos.onrender.com/ (Lúc đầu khởi động có thể bị chậm!)
-
-Tài khoản phục vụ cho mục đích Test và Chấm điểm: (Có video hướng dẫn ở dưới)
-Tài khoản Bệnh nhân: username: `duongcongtu`, password: `123456` | Hoặc có thể tạo tài khoản mới
-Tài khoản bác sĩ: username: `nguyenminhtuan90`, `tuanminh456`. Nếu test tính năng khám bệnh, vào link sau để tra cứu tài khoản bác sĩ: https://dha-hos.onrender.com/acc
-Tài khoản Admin: username: `admin`, password: `admin`
-
+---
+### Tài khoản phục vụ cho mục đích Test và Chấm điểm: (Có video hướng dẫn ở dưới)
+#### Tài khoản Bệnh nhân: 
+- username: `duongcongtu`, password: `123456` | Hoặc có thể tạo tài khoản mới
+#### Tài khoản bác sĩ: 
+- username: `nguyenminhtuan90`, `tuanminh456` (test giao diện và các chức năng cơ bản).
+- Nếu test tính năng khám bệnh, vào link sau để tra cứu tài khoản bác sĩ: https://dha-hos.onrender.com/acc
+#### Tài khoản Admin: 
+- username: `admin`, password: `admin`
+---
 DHA Hospital Management System là một ứng dụng web giúp quản lý bệnh viện, bao gồm các chức năng quản lý người dùng, bệnh nhân, bác sĩ, thuốc, và lịch làm việc; cho phép người dùng (bệnh nhân) đặt lịch Online trước khi đến khám, xem lại kết quả khám vô cùng dễ dàng. Hệ thống cung cấp giao diện cho người quản trị để theo dõi và điều hành các hoạt động trong bệnh viện.
 
 ## Thiết kế Cơ sở dữ liệu
@@ -178,6 +182,9 @@ Dự án này được chia thành 3 phần cho 3 thành viên trong nhóm, mỗ
 
 ## Video demo:
 [Nhấn vào đây để xem](https://drive.google.com/file/d/1PMspMIIW4OHS78N6GArH_S_5jSfqfcQ4/view?usp=sharing)
+
+## Video hướng dẫn Test:
+[Nhấn vào đây để xem]()
 
 ## Giấy Phép
 
