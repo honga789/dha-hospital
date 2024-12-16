@@ -6,7 +6,7 @@
 #### Tài khoản Bệnh nhân: 
 - username: `duongcongtu`, password: `123456` | Hoặc có thể tạo tài khoản mới
 #### Tài khoản bác sĩ: 
-- username: `nguyenminhtuan90`, `tuanminh456` (test giao diện và các chức năng cơ bản).
+- username: `nguyenminhtuan90`, password: `tuanminh456` (test giao diện và các chức năng cơ bản).
 - Nếu test tính năng khám bệnh, vào link sau để tra cứu tài khoản bác sĩ: https://dha-hos.onrender.com/acc
 #### Tài khoản Admin: 
 - username: `admin`, password: `admin`
